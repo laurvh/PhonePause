@@ -2,7 +2,7 @@
 //  PhonePauseApp.swift
 //  PhonePause
 //
-//  Created by Lauren Van Horn on 3/17/23.
+//  Created by Lauren Van Horn
 //
 
 import SwiftUI
